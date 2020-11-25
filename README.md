@@ -10,6 +10,7 @@ docker-entrypoint.sh (bash)
 ```
 
 ## Build
+tagをつけてビルドする。
 test2020はDockerHubのユーザー名にする
 ```
 % docker build . -t test2020/test:v1.0
